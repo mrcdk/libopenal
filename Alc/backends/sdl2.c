@@ -21,7 +21,7 @@
 #include "config.h"
 
 #include <stdlib.h>
-#include <SDL2/SDL.h>
+#include <SDL.h>
 
 #include "alMain.h"
 #include "alu.h"
